@@ -1,2 +1,2 @@
 print('Good bye world')
-1 + 1
+2 + 2
